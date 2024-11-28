@@ -3,7 +3,7 @@
 
 ---
 
-## **Title and Cover Page**
+## **Advanced Database System**
 
 **Title:** Game Management Web Application  
 **Author:** David  
@@ -17,10 +17,15 @@
 
 
 To run:
-IN VSCODE CLI
 
-node.js server.js
 
+IN VSCODE OR ANY COMPATIBLE IDE
+
+"npm install"-To install all the required dependencies
+
+"node server.js" To start the server
+
+On browser open :
     http://localhost:5000/
 
 ---
@@ -136,9 +141,6 @@ Through this project, I enhanced my skills in full-stack development, focusing o
 
 ## **Appendices**
 
-- **Link to Hosted Application:** [Insert Link]  
-- **Link to GitHub Repository:** [Insert Link]  
 
-*(Ensure the screencast presentation is included in the final zip file submission.)*
 
 ---
